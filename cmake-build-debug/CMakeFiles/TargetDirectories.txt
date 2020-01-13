@@ -1,0 +1,3 @@
+/home/alireza/OS_Project_Linux_MultiThread_AliRezaBeitari_9618843/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alireza/OS_Project_Linux_MultiThread_AliRezaBeitari_9618843/cmake-build-debug/CMakeFiles/OS_Project_Linux_MultiThread_AliRezaBeitari_9618843.dir
+/home/alireza/OS_Project_Linux_MultiThread_AliRezaBeitari_9618843/cmake-build-debug/CMakeFiles/edit_cache.dir

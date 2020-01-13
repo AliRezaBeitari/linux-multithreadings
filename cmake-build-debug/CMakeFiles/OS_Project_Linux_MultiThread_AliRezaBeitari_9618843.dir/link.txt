@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/OS_Project_Linux_MultiThread_AliRezaBeitari_9618843.dir/main.c.o  -o OS_Project_Linux_MultiThread_AliRezaBeitari_9618843 
